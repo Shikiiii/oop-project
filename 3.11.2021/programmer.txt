@@ -1,0 +1,12 @@
+Кирил Методиев|20|Web Developer|PHP, HTML, CSS, JavaScript|3 години
+Валентин Вичев|34|Web Developer|PHP, HTML, CSS, JavaScript|13 години
+Виктория Гоцева|26|Web Developer|PHP, HTML, CSS, JavaScript|6 години
+Милан Миланов |54|Game Developer|Lua, Java, C#|36 години
+Росен Стефанов|31|Game Developer|C++, UnrealScript|10 години
+Цветан Цветанов|23|Game Developer|Java, C#, UnrealScript|4 години
+Елизабет Горанова|25|System Administrator|Linux, C++|6 години
+Петър Петров|26|System Administrator|Linux, C++|7 години
+Десислава Топузакова|24|System Administrator|Linux, C++|5 години
+Зорница Панайотова|30|Mobile Developer|IOS, Android|11 години
+Димитрина Стефанова|22|Mobile Developer|IOS, Android|3 години
+Велин Атанасов|28|Mobile Developer|IOS, Android|9 години
