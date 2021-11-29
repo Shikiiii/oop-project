@@ -50,4 +50,4 @@ public class Programmer {
         System.out.println("Опит: " + this.experience);
         System.out.println("-----------------------------------");
     }
-}     
+}
