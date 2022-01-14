@@ -1,2 +1,2 @@
-# tomov-project
-proekt pri tomov
+# OOP Java project
+2021-2022
